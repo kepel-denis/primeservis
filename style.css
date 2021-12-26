@@ -13,7 +13,7 @@ body{
 }
 #logo{
 	margin-top:-150px;
-	background:url(imeg/up4.jfif)no-repeat;
+	background:url(up4.jfif)no-repeat;
 }
 #elem1 ul{
 	
@@ -87,7 +87,7 @@ h2{
 .rem li{
 	
 	display:inline-block;
-	background:url(imeg/niz.jpg);
+	background:url(niz.jpg);
 	margin:0 auto;
 	padding:10px;
 }
