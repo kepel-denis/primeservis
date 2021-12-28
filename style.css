@@ -4,6 +4,8 @@ body{
 	padding:0;
 	font-family: 'Bangers', cursive;
 	color:#fff;
+	width:1000px;
+	min-width:600px;
 }
 #number{
 	margin:50px;
