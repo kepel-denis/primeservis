@@ -174,3 +174,55 @@ caption{
 	font-size:28px;
 	padding:5px;
 }
+/*форма*/
+form{
+	width:350px;
+	margin:0 auto;
+	padding:20px;
+	background:#bdc4d0;
+	border-radius:25px;
+	
+	
+}
+fieldset{
+	text-align:center;
+}
+input, select{
+	border-radius: 25px;
+	
+}
+textarea{
+	border-radius:10px;
+}
+
+legend{
+	text-align:left;
+}
+#id{
+	float:left;
+}
+input:invalid, textarea:invalid {
+  border: 2px solid red;
+}
+input:valid, textarea:valid, select:valid {
+  border: 2px solid #8a8f97;
+}
+#push{
+	background:white;
+	border-radius:25px 15px;
+}
+#push:hover{
+	background:#3895a8;
+	
+}
+#push:valid{
+	border:2px solid #aebabd;
+}
+h2{
+	color:#fff;
+}
+.maps iframe{
+	margin:0 auto;
+	padding:10px;
+	border-radius:20px;
+}
